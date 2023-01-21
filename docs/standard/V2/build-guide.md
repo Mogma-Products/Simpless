@@ -24,20 +24,21 @@ standard edition キースイッチプレート|1|セット内容によって色
 
 ## 手順1
 ボディのマグネットポケットが入る側を上向きにし、ボディの四隅の穴にスペーサーを入れて裏側からネジで止めます。
- ![build_guide_screenshot_1](https://user-images.githubusercontent.com/2647656/211301398-cd09adfb-19ab-4292-974d-5f5364fb264c.svg)
+<img src="https://user-images.githubusercontent.com/2647656/211301398-cd09adfb-19ab-4292-974d-5f5364fb264c.svg" width="75%">
 
 ## 手順2
 マグネットをマグネットポケットに入れます。このとき、マグネットの極を互い違いに入れていくとSimpless同士をどの方向でもくっつけることができます。
-![build_guide_screenshot_2](https://user-images.githubusercontent.com/2647656/211301452-1d1902e1-4a20-4534-949e-dcfbd24e7fa0.svg)
+<img src="https://user-images.githubusercontent.com/2647656/211301452-1d1902e1-4a20-4534-949e-dcfbd24e7fa0.svg" width="75%">
+
 ## オプション
 マグネットに粘着タックをつけることでマグネットの音鳴りをなくすことができます。  
 粘着タック(1つ)は16等分にしてマグネットの上に乗せて使用してください。ポケットの余剰が少ないため、米粒程度を詰めるだけで十分効果が発揮されます。
-![粘着タックの装着例](https://user-images.githubusercontent.com/2647656/212524840-11d4e34c-2878-4a43-bb51-e13fa767f31a.jpg)
+<img src="https://user-images.githubusercontent.com/2647656/212524840-11d4e34c-2878-4a43-bb51-e13fa767f31a.jpg" width="75%">
 
 ## 手順3
 ボディの上面にプレートを乗せ、ネジで止めます。
-![build_guide_screenshot_3](https://user-images.githubusercontent.com/2647656/211301615-a023d3b5-1913-4991-a8f8-654e96b3bd32.svg)
+<img src="https://user-images.githubusercontent.com/2647656/211301615-a023d3b5-1913-4991-a8f8-654e96b3bd32.svg" width="75%">
 
 ## 手順4
 用意しておいたお好きなキースイッチを装着して完成！
-![キースイッチ装着例](https://user-images.githubusercontent.com/2647656/212524918-49f3d333-e91a-44d5-9d17-214bb3b295b2.jpg)
+<img src="https://user-images.githubusercontent.com/2647656/212524918-49f3d333-e91a-44d5-9d17-214bb3b295b2.jpg" width="75%">
